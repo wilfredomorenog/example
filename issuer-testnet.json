@@ -7,7 +7,7 @@
   "id": "https://raw.githubusercontent.com/wilfredomorenog/example/master/issuer-testnet.json",
   "name": "UNEFA",
   "url": "https://www.issuer.org",
-  "introductionURL": "https://www.issuer.org/intro/",
+  "introductionURL": "http://sysartec.odoodemo.net/api/evernin",
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x617d321791bf04508998e9fe03d440bc08f4736c",
